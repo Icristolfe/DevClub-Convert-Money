@@ -59,7 +59,7 @@ const currencyCoin = () => {
 
     if (select.value === `Bitcoin`) {
         coinConvert.innerHTML = `Bitcoin`
-        currencyFlag.src = `./assets/Bitcoin.png`
+        currencyFlag.src = `./assets/bitcoin.png`
     }
     convertValue()
 
