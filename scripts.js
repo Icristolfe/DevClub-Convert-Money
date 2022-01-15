@@ -1,8 +1,6 @@
 const button = document.getElementById("convert-button")
 const select = document.getElementById(`currency`)
 
-const bitcoin = 357305.51
-
 const convertValue = async () => {
 
     const realValue = document.getElementById(`value-real`)
