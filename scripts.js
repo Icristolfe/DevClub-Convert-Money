@@ -29,7 +29,7 @@ const convertValue = async () => {
             { style: 'currency', currency: 'EUR' }
         ).format(input / euro)
     }
-    if (select.value === `Bitcoin`) {
+    if (select.value === `₿ Bitcoin`) {
         CurrencyValue.innerHTML = new Intl.NumberFormat('de-DE',
             { style: 'currency', currency: 'BTC' }
         ).format(input / bitcoin)
