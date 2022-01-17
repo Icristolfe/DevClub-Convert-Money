@@ -44,19 +44,19 @@ const currencyCoin = () => {
 
 
 
-    if (select.value === `€ Euro`) {
+    if (select.value == `€ Euro`) {
         coinConvert.innerHTML = `Euro`
         currencyFlag.src = `./assets/Euro.png`
 
     }
 
-    if (select.value === `US$ Dolar americano`) {
+    if (select.value == `US$ Dolar americano`) {
         coinConvert.innerHTML = `Dolar americano`
         currencyFlag.src = `./assets/EUA.png`
     }
 
 
-    if (select.value === `₿ Bitcoin`) {
+    if (select.value == `₿ Bitcoin`) {
         coinConvert.innerHTML = `Bitcoin`
         currencyFlag.src = `./assets/bitcoin.png`
     }
