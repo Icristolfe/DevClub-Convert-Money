@@ -56,7 +56,7 @@ const currencyCoin = () => {
     }
 
 
-    if (select.value === `Bitcoin`) {
+    if (select.value === `₿ Bitcoin`) {
         coinConvert.innerHTML = `Bitcoin`
         currencyFlag.src = `./assets/bitcoin.png`
     }
