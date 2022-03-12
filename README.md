@@ -1,16 +1,16 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="./assets/devclubconvert.png" alt="convert-money-image">
 
-# Nome Do Projeto
+#Convert Money
 
-Descrição curta do projeto. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+ Conversor de moedas com as oções de conversão do Real brasileiro para dolar, euro ou bitcoin
 
-## 🔧 Funçoes (opcional)
+## 🔧 Funçoes
 
 ### Função 01:
 - Conversor de moedas 
 
 ### Função 02:
-- Descrição Da Função
+- conversão de moedas do Real Brasileiro para dolar, euro ou bitcoin.
 
 ## Veja o desenvolvimento do projeto:
 
