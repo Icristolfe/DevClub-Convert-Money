@@ -1,4 +1,4 @@
-<h1>Convert Money </h1>
+<h1>🔰 Convert Money </h1>
 <p>Conversor de moedas onde é possível converter da moeda real-brasileiro para outras moedas, sendo elas euro, dólar americano e bitcoin com valores atualizados.</p>
 
 <img src="./assets/devclubconvert.png" alt="convert-money-image">
