@@ -10,13 +10,6 @@
 ### Função 02:
 - conversão de moedas do Real Brasileiro para dolar, euro ou bitcoin.
 
-## Veja o desenvolvimento do projeto:
-
-Para ver o desenvolvimento acesse o planejamento:
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristolfe-prog/DevClub-Convert-Money)
-
-
 ## Feito Com:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
