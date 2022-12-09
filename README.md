@@ -1,12 +1,10 @@
+<h1>Convert Money </h1>
+<p>Conversor de moedas onde é possível converter da moeda real-brasileiro para outras moedas, sendo elas euro, dólar americano e bitcoin com valores atualizados.</p>
+
 <img src="./assets/devclubconvert.png" alt="convert-money-image">
-
-#Convert Money
-
- Conversor de moedas com as oções de conversão do Real brasileiro para dolar, euro ou bitcoin
 
 ## 🔧 Funçoes
 
-### Função 01:
 - Conversor de moedas 
 
 ### Função 02:
